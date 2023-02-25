@@ -1,0 +1,26 @@
+Contains advanced Python Concepts
+1. Iterators and Generators (yield)
+2. Set, Dictionary and List Comprehension
+  set = {x for x in....}
+  d = {x: x*2 for x in ..}
+3. Regex (Metacharacter, re module)
+4. Serialzation and Deserialization
+  Pickling and Unpickling
+  dump() and load() - use wb to write
+  dumps() and loads() for string
+  
+  - use rb to read the hexa characters stored
+  
+5. Partial Function
+    func( function, rest of the arguments)
+    
+6. Nested Function
+    Inner function remembers the value from outer scope, which it need to act upon.
+    
+    
+7. Closure
+8. Decorators
+    @mainfunction name
+    
+9. Map and Filter
+10. Reduce from functools Module  
